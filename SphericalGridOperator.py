@@ -1,3 +1,6 @@
+#Released under GPL 3.0 License
+#Copyright 2024 Sungrae Kim
+
 import bpy
 from mathutils import *
 
